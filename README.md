@@ -23,7 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galib3o3)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Galib3o3&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwaitya&theme=tokyonight)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Galib3o3)  
 
