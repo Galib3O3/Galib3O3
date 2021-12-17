@@ -4,9 +4,9 @@
 <h1 align="center">Assalamu Alaikum I'm Md.Asadullah-Al-Galib</h1>
 
 
-- ✅I’m currently learning **Java(OOP)**
+- ✅I’m currently learning **Java**
 
-- 📫 How to reach me **cse_2012020303@lus.ac.bd**
+- 📫 How to reach me **algali681@gmail.com**
 
 - ⚡ Fun fact **🤷‍♂️**
 
