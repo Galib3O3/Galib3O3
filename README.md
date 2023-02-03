@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/asadullah-al-galib-6662b0198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadullah-al-galib-6662b0198" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/AlGalib303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadullah-al-galib-6662b0198" height="30" width="40" /></a>
 <a href="https://fb.com/galluxman303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="galluxman303" height="30" width="40" /></a>
 <a href="https://instagram.com/_asadullah_al_galib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_asadullah_al_galib" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/6p3SWxRKRV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/6p3SWxRKRV" height="30" width="40" /></a>
