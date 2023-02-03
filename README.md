@@ -4,7 +4,7 @@
 <h1 align="center">Assalamu Alaikum I'm Md.Asadullah-Al-Galib</h1>
 
 
-- ✅I’m currently learning **Java**
+- ✅I’m currently learning **web development,flutter**
 
 - 📫 How to reach me **algalib681@gmail.com**
 
