@@ -1,5 +1,5 @@
 <h1 align="center">Assalamu Alaikum I'm Md.Asadullah-Al-Galib</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=galib3o3&label=Profile%20views&color=0e75b6&style=flat" alt="galib3o3" /> </p>
+
 
 - 🔭 I’m currently Learning **Web development, Android development**
 
